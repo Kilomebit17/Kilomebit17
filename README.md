@@ -1,10 +1,4 @@
 ### Hi there is What i'm working now 👋
+<img src="https://reactapp.ir/wp-content/uploads/reactjs.jpg" style="width:300px; heigth:150px;">
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on self
-- 🌱 I’m currently learning front-end elaboration
-- 👯 I'm looking to collaborate on somebody
-- 🤔 I’m looking for help with ... ohh i'm not
-- 💬 Ask me about anything
-- 📫 How to reach me: It's Ukraine baby
+- Hi everybody I'm 18 years front-end developer who study and wanna be cool React dev

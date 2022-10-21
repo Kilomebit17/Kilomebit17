@@ -26,7 +26,7 @@
   <code><img title="TypeScript" height="25" src="images/flask.png"></code>
   <code><img title="Javascript" height="25" src="images/javascript.png"></code>
   <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
-  <code><img title="HTML5" height="25" src="images/html5.png"></code>
+  <code><img title="HTML5" height="25" src="images/html.png"></code>
   <code><img title="CSS" height="25" src="images/css.png"></code>
   <code><img title="SASS" height="25" src="images/sass.png"></code>
   <code><img title="React" height="25" src="images/react-original.png"></code>

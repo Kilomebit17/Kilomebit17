@@ -29,7 +29,6 @@
   <code><img title="CSS" height="25" src="images/css3.png"></code>
   <code><img title="SASS" height="25" src="images/sass.png"></code>
   <code><img title="React" height="25" src="images/react.png"></code>
-  <code><img title="Redux" height="25" src="images/redux.png"></code>
   <code><img title="Angular" height="25" src="images/angular.png"></code>
   <code><img title="Rxjs" height="25" src="images/rxjs.png"></code>
   <code><img title="Git" height="25" src="images/gitlab.png"></code>

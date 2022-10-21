@@ -27,14 +27,14 @@
   <code><img title="Javascript" height="25" src="images/javascript.png"></code>
   <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
   <code><img title="HTML5" height="25" src="images/html.png"></code>
-  <code><img title="CSS" height="25" src="images/css.png"></code>
+  <code><img title="CSS" height="25" src="images/css3.png"></code>
   <code><img title="SASS" height="25" src="images/sass.png"></code>
-  <code><img title="React" height="25" src="images/react-original.png"></code>
+  <code><img title="React" height="25" src="images/react.png"></code>
   <code><img title="Redux" height="25" src="images/redux.png"></code>
-  <code><img title="Angular" height="25" src="images/angularjs.png"></code>
-  <code><img title="Rxjs" height="25" src="images/flask.png"></code>
-  <code><img title="Git" height="25" src="images/git-original.png"></code>
-  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
+  <code><img title="Angular" height="25" src="images/angular.png"></code>
+  <code><img title="Rxjs" height="25" src="images/rxjs.png"></code>
+  <code><img title="Git" height="25" src="images/git.png"></code>
+  <code><img title="Visual Studio Code" height="25" src="images/vsc.png"></code>
   <code><img title="JSON" height="25" src="images/json.png"></code>
   <code><img title="GitLub" height="25" src="images/github.png"></code>
   <code><img title="MongoDb" height="25" src="images/mysql.png"></code>

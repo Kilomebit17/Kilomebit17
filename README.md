@@ -23,7 +23,7 @@
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
-  <code><img title="TypeScript" height="25" src="images/flask.png"></code>
+  <code><img title="TypeScript" height="25" src="images/typescript.png"></code>
   <code><img title="Javascript" height="25" src="images/javascript.png"></code>
   <code><img title="HTML5" height="25" src="images/html.png"></code>
   <code><img title="CSS" height="25" src="images/css3.png"></code>
@@ -33,8 +33,8 @@
   <code><img title="Angular" height="25" src="images/angular.png"></code>
   <code><img title="Rxjs" height="25" src="images/rxjs.png"></code>
   <code><img title="Git" height="25" src="images/git.png"></code>
-  <code><img title="Visual Studio Code" height="25" src="images/vsc.png"></code>
-  <code><img title="JSON" height="25" src="images/json.png"></code>
+  <code><img title="Visual Studio Code" height="25" src="images/visual-studio-code.png"></code>
+  <code><img title="JSON" height="25" src="images/file.png"></code>
   <code><img title="GitLub" height="25" src="images/github.png"></code>
   <code><img title="MongoDb" height="25" src="images/mysql.png"></code>
   <code><img title="Node.js" height="25" src="images/npm.png"></code>

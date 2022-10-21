@@ -24,21 +24,21 @@
 <br>
 <p align="center">
   <code><img title="TypeScript" height="25" src="images/flask.png"></code>
-  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
+  <code><img title="Javascript" height="25" src="images/javascript.png"></code>
   <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
-  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="images/css.svg"></code>
-  <code><img title="SASS" height="25" src="images/sass.svg"></code>
-  <code><img title="React" height="25" src="images/react-original.svg"></code>
-  <code><img title="Redux" height="25" src="images/redux.svg"></code>
+  <code><img title="HTML5" height="25" src="images/html5.png"></code>
+  <code><img title="CSS" height="25" src="images/css.png"></code>
+  <code><img title="SASS" height="25" src="images/sass.png"></code>
+  <code><img title="React" height="25" src="images/react-original.png"></code>
+  <code><img title="Redux" height="25" src="images/redux.png"></code>
   <code><img title="Angular" height="25" src="images/angularjs.png"></code>
   <code><img title="Rxjs" height="25" src="images/flask.png"></code>
-  <code><img title="Git" height="25" src="images/git-original.svg"></code>
+  <code><img title="Git" height="25" src="images/git-original.png"></code>
   <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
-  <code><img title="JSON" height="25" src="images/json.svg"></code>
-  <code><img title="GitLub" height="25" src="images/github.svg"></code>
-  <code><img title="MongoDb" height="25" src="images/mysql.svg"></code>
-  <code><img title="Node.js" height="25" src="images/npm.svg"></code>
-  <code><img title="Express" height="25" src="images/php.svg"></code>
+  <code><img title="JSON" height="25" src="images/json.png"></code>
+  <code><img title="GitLub" height="25" src="images/github.png"></code>
+  <code><img title="MongoDb" height="25" src="images/mysql.png"></code>
+  <code><img title="Node.js" height="25" src="images/npm.png"></code>
+  <code><img title="Express" height="25" src="images/php.png"></code>
 </p>
 <hr>

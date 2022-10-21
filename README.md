@@ -32,7 +32,7 @@
   <code><img title="Redux" height="25" src="images/redux.png"></code>
   <code><img title="Angular" height="25" src="images/angular.png"></code>
   <code><img title="Rxjs" height="25" src="images/rxjs.png"></code>
-  <code><img title="Git" height="25" src="images/git.png"></code>
+  <code><img title="Git" height="25" src="images/gitlab.png"></code>
   <code><img title="Visual Studio Code" height="25" src="images/visual-studio-code.png"></code>
   <code><img title="JSON" height="25" src="images/file.png"></code>
   <code><img title="GitLub" height="25" src="images/github.png"></code>

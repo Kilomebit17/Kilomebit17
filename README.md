@@ -35,8 +35,8 @@
   <code><img title="Git" height="25" src="images/gitlab.png"></code>
   <code><img title="Visual Studio Code" height="25" src="images/visual-studio-code.png"></code>
   <code><img title="JSON" height="25" src="images/file.png"></code>
-  <code><img title="MongoDb" height="25" src="images/mysql.png"></code>
-  <code><img title="Node.js" height="25" src="images/npm.png"></code>
-  <code><img title="Express" height="25" src="images/php.png"></code>
+  <code><img title="MongoDb" height="25" src="images/mongodb.png"></code>
+  <code><img title="Node.js" height="25" src="images/node-js.png"></code>
+  <code><img title="Express" height="25" src="images/express.png"></code>
 </p>
 <hr>

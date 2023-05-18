@@ -11,13 +11,6 @@
     <a href="https://www.linkedin.com/in/osmandurdag/" title="LinkedIn Profile"><img width="22" src="images/linkedin.png"> LinkedIn</a></code>
 </h5>
 <br>
-<p align="center">
-  Hi, I'm Oleg, Web3 Software Engineer from Ukraine
-  <br>
-  📚 I’m currently learning how to work with Solidity
-  <br>
-  📫 How to reach me: <a href="mailto: oleh.stahnyuk@gmail.com">oleh.stahnyuk@gmail.com</a>
-</p>
 
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
